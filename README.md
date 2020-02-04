@@ -1,3 +1,3 @@
-A company website for an imaginary food delivery business.
+This is a website template that can be used a landing page for a food delivery business.
 
-![Screenshot](/img/onifood.png)
+![Screenshot](/img/omnifood.png)
